@@ -1,2 +1,15 @@
-# Exercicios-e-Trabalho-de-Bases-de-Dados
-Exercícios e trabalho para a disciplina Bases de Dados (2º ano, 2º semestre) em SQL
+Departamento de Engenharias Escola de Ciências e Tecnologia Universidade de Trás-os-Montes e Alto Douro
+
+Licenciatura em Engenharia Informática / 2º Ano
+
+Bases de Dados
+
+-> Trabalho desenvolvido utilizando SQL
+
+Realizado por:
+
+Eduardo Chaves, nº70611, https://github.com/Educhaves430
+
+João Rodrigues, nº70579, https://github.com/joaohcr
+
+Luís Pimenta, nº70827
