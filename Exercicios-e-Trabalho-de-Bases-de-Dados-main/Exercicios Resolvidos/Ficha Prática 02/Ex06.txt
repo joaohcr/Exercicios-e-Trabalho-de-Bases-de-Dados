@@ -1,0 +1,4 @@
+Um consutório médico. Consultam-se pacientes.
+Quando é que os pacientes foram consultados.
+Para cada consulta pode ser produzida uma prescrição 
+com os medicamentos que um paciente necessita tomar.
